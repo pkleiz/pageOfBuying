@@ -11,6 +11,6 @@ For the design was used SASS to facilite the compatibility and Bootstrap for the
 
 Thank you for reading and if there are any problem, please contact me.
 
-PS2: The HTML was made by the other programmer, names of classes, ids and divs weren't changed, all functions were made by me.
+PS2: The HTML was made by the another programmer, names of classes, ids and divs weren't changed, all functions were made by me.
 
 Another programmer: Ivan Lourenço Gomes
