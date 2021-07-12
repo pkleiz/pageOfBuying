@@ -10,3 +10,7 @@ PS: The spinner loader on screen simulates an access in a external DB or somethi
 For the design was used SASS to facilite the compatibility and Bootstrap for the modal window. To finish, the interrogation button was origined from fontawesome.
 
 Thank you for reading and if there are any problem, please contact me.
+
+PS2: The HTML was made by the other programmer, names of classes, ids and divs weren't changed, all functions were made by me.
+
+Another programmer: Ivan Lourenço Gomes
